@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+
+data/
+runs/
+evaluations/
+archive/
+backups/
+
+*.pth
+*.log
+result*.png
